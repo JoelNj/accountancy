@@ -1,0 +1,15 @@
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/bin/Debug/net6.0/ClaumyAssignement
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/bin/Debug/net6.0/ClaumyAssignement.deps.json
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/bin/Debug/net6.0/ClaumyAssignement.runtimeconfig.json
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/bin/Debug/net6.0/ClaumyAssignement.dll
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/bin/Debug/net6.0/ClaumyAssignement.pdb
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.csproj.AssemblyReference.cache
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.AssemblyInfoInputs.cache
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.AssemblyInfo.cs
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.csproj.CoreCompileInputs.cache
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.dll
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/refint/ClaumyAssignement.dll
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.pdb
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.genruntimeconfig.cache
+/Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ref/ClaumyAssignement.dll
