@@ -13,3 +13,11 @@
 /Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.pdb
 /Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.genruntimeconfig.cache
 /Users/nj/Projects/ClaumyAssignement/ClaumyAssignement/obj/Debug/net6.0/ref/ClaumyAssignement.dll
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.AssemblyInfoInputs.cache
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.AssemblyInfo.cs
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.csproj.CoreCompileInputs.cache
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.sourcelink.json
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.dll
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/refint/ClaumyAssignement.dll
+/Volumes/Personnal/PersonnalProject/SoftwareProject/ClaumyAssignement/obj/Debug/net6.0/ClaumyAssignement.pdb

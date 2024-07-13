@@ -1,11 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ClaumyAssignement;
-
 Portofolio p = new Portofolio();
 Menu m = new Menu(p);
-
 m.display();
-
 Console.WriteLine("choose your operation based on the menu ");
 Console.WriteLine(   System.IO.Directory.GetCurrentDirectory());
 #pragma warning disable format
